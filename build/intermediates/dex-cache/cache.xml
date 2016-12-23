@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_6e12fdb31400e9665f91e72680ef2a9d1790cf71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_b28aaa32beaebbaa50573032db5658a0dfc4033f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_13ba6593d7a4443c4b3e8e290d3dfe4d55fddf5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4b80d98f61409e97b7675c13779bb37a7c461d62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\soft\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_412dba69d04340e8118e61deafc815d47ec3b1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_5794ac19056d6fb96c71a1b8416e20452c207ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_80df64d4b75321462b2dff14f6db8cf6f0215c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3a19eba0e4a5e6c094c8e150bcc48393fbfac2">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8be61d58ec58bd1f70f375c1d6bd878c3cb2307c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_7e12faf46ebda2897df2b9e4d58ff9c8edc7d144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d9e8691b2b52fd5e1cc2e25b9e8e34e49ad82d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_96e8724e5c841014f7b2754927a2c51b269e217d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_001d1c3428edf49d63db9163d1f121c854b67eca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_2a801157e8f3eb54737a017afd4d0377a6dcb184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576ea198b402ae81ac1499860678a35a0115f3b2">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a1d572edf0fc4fa01dc4d1c04b606a33da6d77d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_d74f45fd6b951fa9760c9cdf025f39ac8e6d3a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ebcd89f611bbb2aa58cd12641a8dcf2b4465a6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0987c1000c4f7183c5aceef5c5bbfdd313037785\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\111\OSC\Android_Notification\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\111\OSC\Android_Notification\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2571281a60b6d510af7ac76d03009f98c46d1f8e\classes.dex" />
+    </item>
+
+</items>
